@@ -6,10 +6,10 @@ I'm a Software Engineer from Switzerland interested in all things related to Blo
 [![Linkedin: romanniklaus](https://img.shields.io/badge/-romanniklaus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romanniklaus/)](https://www.linkedin.com/in/romanniklaus/)
 [![GitHub followers](https://img.shields.io/github/followers/niklr?label=Follow&style=social)](https://github.com/niklr)
 
-#### Recent projects
+#### Project highlights
 
 <p>
-  <a href="https://github.com/harmony-one/harmony/pull/3773" target="_blank"><img width="250" align="left" src="/assets/banner_harmony.png"></a>
+  <a href="https://github.com/harmony-one/harmony/pull/3773" target="_blank"><img width="250" align="left" src="/assets/banner_harmony.jpg"></a>
 </p>
  
 **[Harmony - pprof module extension](https://github.com/harmony-one/harmony/pull/3773)**
@@ -22,15 +22,15 @@ Pprof is a golang tool for resource profiling, e.g. CPU, memory, goroutine, etc,
 #
 
 <p>
-  <a href="https://github.com/Opty-Fi/defi-adapters/pull/1" target="_blank"><img width="300" align="right" src="/assets/banner_optyfi.png"></a>
+  <a href="https://github.com/Opty-Fi/defi-adapters/pull/1" target="_blank"><img width="300" align="right" src="/assets/banner_optyfi.jpg"></a>
 </p>
 
 **[OptyFi - Integrating Convex Finance and Lido](https://github.com/Opty-Fi/defi-adapters/pull/1)**
 
 [OptyFi](https://opty.fi/) is a protocol powered by AI to help generate wealth in DeFi by investing in the most profitable risk-adjusted yield strategies across hundreds of liquidity pools, dozens of protocols, and multiple blockchains. In this project the protocol has been extended by integrating [Convex Finance](https://www.convexfinance.com/) and [Lido](https://lido.fi/). The overall goal was to maximize the liquidity, utility and profitability of ETH, stETH, CRV and other Curve related assets. [[Pull request 1]](https://github.com/Opty-Fi/defi-adapters/pull/1) [[Pull request 2]](https://github.com/Opty-Fi/defi-adapters/pull/9)
 
+![Solidity](https://img.shields.io/badge/-Solidity-lightgrey?&logo=Solidity)
 ![Ethereum](https://img.shields.io/badge/-Ethereum-lightgrey?&logo=Ethereum)
-![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
 ![DeFi](https://img.shields.io/badge/-DeFi-lightgrey)
 
 #
@@ -41,8 +41,27 @@ Pprof is a golang tool for resource profiling, e.g. CPU, memory, goroutine, etc,
 
 **[2nd Place Nervos Blockchain Hackathon](https://www.nervos.org/blog/nervos-gitcoin-hackathon-winners-announced)**
 
-During the month-long virtual hackathon, development teams worldwide worked to build the next generation of DeFi projects on Nervos's premier EVM L2 solution, Godwoken. The winners were chosen by a panel of nine judges from across the spectrum of blockchain companies and partners. Each project was scored using a six-part criteria, from ease-of-use to technical complexity. [[Winning submission]](https://github.com/niklr/crowdmint) [[Video]](https://www.youtube.com/watch?v=s-3PJrl0gQQ)
+During the month-long virtual hackathon, development teams worldwide worked to build the next generation of DeFi projects on [Nervos](https://www.nervos.org)'s premier EVM L2 solution, Godwoken. The winners were chosen by a panel of nine judges from across the spectrum of blockchain companies and partners. Each project was scored using a six-part criteria, from ease-of-use to technical complexity. [[Winning submission]](https://github.com/niklr/crowdmint) [[Video]](https://www.youtube.com/watch?v=s-3PJrl0gQQ)
 
+![Solidity](https://img.shields.io/badge/-Solidity-lightgrey?&logo=Solidity)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-lightgrey?&logo=TypeScript)
-![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
 ![Smart Contract](https://img.shields.io/badge/-Smart%20Contract-lightgrey)
+
+<details>
+  <summary>More</summary>
+
+  #
+
+  <p>
+    <a href="https://twitter.com/hoprnet/status/1400025895428149251" target="_blank"><img width="250" align="right" src="/assets/banner_hopr.jpg"></a>
+  </p>  
+
+  **[HOPR - Token Transfers Network Graph](https://twitter.com/hoprnet/status/1400025895428149251)**
+
+  The [HOPR protocol](https://hoprnet.org) provides network-level and metadata privacy for every kind of data exchange. A mixnet protects the identity of both sender and recipient by routing data via multiple intermediate relay hops that mix traffic. The developed project enables users to gain a bird view on the HOPR token transfers on Ethereum mainnet and xDai chain. It visualizes the life-cycle (provenance) of HOPR in a network graph: a. Minting b. Transfer c. Burning. [[Bounty]](https://gitcoin.co/issue/hoprnet/hopr-analytics/9/100025648) [[Project]](https://github.com/niklr/hopr-network-graph) [[Video]](https://www.youtube.com/watch?v=hRV_Ln6DlwE)
+
+  ![Ethereum](https://img.shields.io/badge/-Ethereum-lightgrey?&logo=Ethereum)
+  ![Angular](https://img.shields.io/badge/-Angular-lightgrey?&logo=Angular)
+  ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-lightgrey)
+  ![Visualization](https://img.shields.io/badge/-Visualization-lightgrey)
+</details>
