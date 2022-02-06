@@ -64,4 +64,18 @@ During the month-long virtual hackathon, development teams worldwide worked to b
   ![Angular](https://img.shields.io/badge/-Angular-lightgrey?&logo=Angular)
   ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-lightgrey)
   ![Visualization](https://img.shields.io/badge/-Visualization-lightgrey)
+
+  #
+
+  <p>
+    <a href="https://github.com/wearekickback/contracts/pull/76" target="_blank"><img width="250" align="left" src="/assets/banner_kickback.jpg"></a>
+  </p>
+
+  **[Kickback - Turn registration into NFT](https://github.com/wearekickback/contracts/pull/76)**
+
+  Kickback is one of the oldest Ethereum dApps still in active use. Kickback is an event attendee management platform which reduces no-shows at events and launched in September 2016. In this project the existing Solidity smart contracts have been modified to mint a Non-Fungible Token (NFT) during the registration process. The solution is deployed on multiple chains such as [Ethereum](https://ethereum.org), [xDai](https://www.xdaichain.com/) and [Polygon](https://polygon.technology/). [[Pull request]](https://github.com/wearekickback/contracts/pull/76)
+
+  ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey?&logo=Solidity)
+  ![Polygon](https://img.shields.io/badge/-Ethereum-lightgrey)
+  ![Smart Contract](https://img.shields.io/badge/-Smart%20Contract-lightgrey)
 </details>
