@@ -27,7 +27,7 @@ Pprof is a golang tool for resource profiling, e.g. CPU, memory, goroutine, etc,
 
 **[OptyFi - Integrating Convex Finance and Lido](https://github.com/Opty-Fi/defi-adapters/pull/1)**
 
-[OptyFi](https://opty.fi/) is a protocol powered by AI to help generate wealth in DeFi by investing in the most profitable risk-adjusted yield strategies across hundreds of liquidity pools, dozens of protocols, and multiple blockchains. In this project the protocol has been extended by integrating [Convex Finance](https://www.convexfinance.com/) and [Lido](https://lido.fi/). The overall goal was to maximize the liquidity, utility and profitability of ETH, stETH, CRV and other Curve assets. [[Pull request 1]](https://github.com/Opty-Fi/defi-adapters/pull/1) [[Pull request 2]](https://github.com/Opty-Fi/defi-adapters/pull/9)
+[OptyFi](https://opty.fi/) is a protocol powered by AI to help generate wealth in DeFi by investing in the most profitable risk-adjusted yield strategies across hundreds of liquidity pools, dozens of protocols, and multiple blockchains. In this project the protocol has been extended by integrating [Convex Finance](https://www.convexfinance.com/) and [Lido](https://lido.fi/). The overall goal was to maximize the liquidity, utility and profitability of ETH, stETH, CRV and other Curve related assets. [[Pull request 1]](https://github.com/Opty-Fi/defi-adapters/pull/1) [[Pull request 2]](https://github.com/Opty-Fi/defi-adapters/pull/9)
 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-lightgrey?&logo=Ethereum)
 ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
@@ -36,7 +36,7 @@ Pprof is a golang tool for resource profiling, e.g. CPU, memory, goroutine, etc,
 #
 
 <p>
-  <a href="https://www.nervos.org/blog/nervos-gitcoin-hackathon-winners-announced" target="_blank"><img width="250" align="right" src="/assets/banner_nervos.png"></a>
+  <a href="https://www.nervos.org/blog/nervos-gitcoin-hackathon-winners-announced" target="_blank"><img width="250" align="left" src="/assets/banner_nervos.jpg"></a>
 </p>
 
 **[2nd Place Nervos Blockchain Hackathon](https://www.nervos.org/blog/nervos-gitcoin-hackathon-winners-announced)**
