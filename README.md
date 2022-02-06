@@ -27,8 +27,22 @@ Pprof is a golang tool for resource profiling, e.g. CPU, memory, goroutine, etc,
 
 **[OptyFi - Integrating Convex Finance and Lido](https://github.com/Opty-Fi/defi-adapters/pull/1)**
 
-[OptyFi](https://opty.fi/) is a protocol powered by AI to help generate wealth in DeFi by investing in the most profitable risk-adjusted yield strategies across hundreds of liquidity pools, dozens of protocols, and multiple blockchains. In this project the protocol has been extended by integrating [Convex Finance](https://www.convexfinance.com/) and [Lido](https://lido.fi/). The overall goal was to maximize the liquidity, utility and profitability of ETH, stETH, CRV and other Curve assets in DeFi. [[Pull request 1]](https://github.com/Opty-Fi/defi-adapters/pull/1) [[Pull request 2]](https://github.com/Opty-Fi/defi-adapters/pull/9)
+[OptyFi](https://opty.fi/) is a protocol powered by AI to help generate wealth in DeFi by investing in the most profitable risk-adjusted yield strategies across hundreds of liquidity pools, dozens of protocols, and multiple blockchains. In this project the protocol has been extended by integrating [Convex Finance](https://www.convexfinance.com/) and [Lido](https://lido.fi/). The overall goal was to maximize the liquidity, utility and profitability of ETH, stETH, CRV and other Curve assets. [[Pull request 1]](https://github.com/Opty-Fi/defi-adapters/pull/1) [[Pull request 2]](https://github.com/Opty-Fi/defi-adapters/pull/9)
 
 ![Ethereum](https://img.shields.io/badge/-Ethereum-lightgrey?&logo=Ethereum)
 ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
 ![DeFi](https://img.shields.io/badge/-DeFi-lightgrey)
+
+#
+
+<p>
+  <a href="https://www.nervos.org/blog/nervos-gitcoin-hackathon-winners-announced" target="_blank"><img width="250" align="right" src="/assets/banner_nervos.png"></a>
+</p>
+
+**[2nd Place Nervos Blockchain Hackathon](https://www.nervos.org/blog/nervos-gitcoin-hackathon-winners-announced)**
+
+During the month-long virtual hackathon, development teams worldwide worked to build the next generation of DeFi projects on Nervos's premier EVM L2 solution, Godwoken. The winners were chosen by a panel of nine judges from across the spectrum of blockchain companies and partners. Each project was scored using a six-part criteria, from ease-of-use to technical complexity. [[Winning submission]](https://github.com/niklr/crowdmint) [[Video]](https://www.youtube.com/watch?v=s-3PJrl0gQQ)
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-lightgrey?&logo=TypeScript)
+![Solidity](https://img.shields.io/badge/-Solidity-lightgrey)
+![Smart Contract](https://img.shields.io/badge/-Smart%20Contract-lightgrey)
