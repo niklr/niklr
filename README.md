@@ -58,7 +58,7 @@ During the month-long virtual hackathon, development teams worldwide worked to b
 
   **[HOPR - Token Transfers Network Graph](https://twitter.com/hoprnet/status/1400025895428149251)**
 
-  The [HOPR protocol](https://hoprnet.org) provides network-level and metadata privacy for every kind of data exchange. A mixnet protects the identity of both sender and recipient by routing data via multiple intermediate relay hops that mix traffic. The developed project enables users to gain a bird view on the HOPR token transfers on Ethereum mainnet and xDai chain. It visualizes the life-cycle (provenance) of HOPR in a network graph: a. Minting b. Transfer c. Burning. [[Bounty]](https://gitcoin.co/issue/hoprnet/hopr-analytics/9/100025648) [[Project]](https://github.com/niklr/hopr-network-graph) [[Video]](https://www.youtube.com/watch?v=hRV_Ln6DlwE)
+  The [HOPR protocol](https://hoprnet.org) provides network-level and metadata privacy for every kind of data exchange. A mixnet protects the identity of both sender and recipient by routing data via multiple intermediate relay hops that mix traffic. The developed project enables users to gain a bird view on the HOPR token transfers on [Ethereum](https://ethereum.org) and [xDai chain](https://www.xdaichain.com/). It visualizes the life-cycle (provenance) in a network graph: a. Minting b. Transfer c. Burning. [[Bounty]](https://gitcoin.co/issue/hoprnet/hopr-analytics/9/100025648) [[Project]](https://github.com/niklr/hopr-network-graph) [[Video]](https://www.youtube.com/watch?v=hRV_Ln6DlwE)
 
   ![Ethereum](https://img.shields.io/badge/-Ethereum-lightgrey?&logo=Ethereum)
   ![Angular](https://img.shields.io/badge/-Angular-lightgrey?&logo=Angular)
