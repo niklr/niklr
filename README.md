@@ -76,6 +76,23 @@ During the month-long virtual hackathon, development teams worldwide worked to b
   Kickback is one of the oldest Ethereum dApps still in active use. Kickback is an event attendee management platform which reduces no-shows at events and launched in September 2016. In this project the existing Solidity smart contracts have been modified to mint a Non-Fungible Token (NFT) during the registration process. The solution is deployed on multiple chains such as [Ethereum](https://ethereum.org), [xDai](https://www.xdaichain.com/) and [Polygon](https://polygon.technology/). [[Pull request]](https://github.com/wearekickback/contracts/pull/76)
 
   ![Solidity](https://img.shields.io/badge/-Solidity-lightgrey?&logo=Solidity)
-  ![Polygon](https://img.shields.io/badge/-Ethereum-lightgrey)
+  ![Polygon](https://img.shields.io/badge/-Polygon-lightgrey)
+  ![NFT](https://img.shields.io/badge/-NFT-lightgrey)
   ![Smart Contract](https://img.shields.io/badge/-Smart%20Contract-lightgrey)
+
+  #
+
+  <p>
+    <a href="https://github.com/golemfactory/yagna/issues/1457" target="_blank"><img width="250" align="right" src="/assets/banner_golem.jpg"></a>
+  </p>
+
+  **[Golem - Full-text Search Engine](https://github.com/golemfactory/yagna/issues/1457)**
+
+  [Golem Network](https://www.golem.network/) is an accessible, reliable, open access and censorship-resistant protocol, democratizing access to digital resources and connecting users through a flexible, open-source platform.
+
+  Since Beta.2 Golem supports a new model of computation – services. In contrast with batch tasks, services are expected to be long-running processes that don't have any natural completion point but rather are started and stopped on explicit command. The goal of this project was to build a full-text search service on Golem. The service allows its users to perform search queries over a corpus of documents submitted by the requestor during deployment. [[Bounty]](https://gitcoin.co/issue/golemfactory/yagna/1457/100026045) [[Project]](https://github.com/niklr/golem-fulltext-search)
+
+  ![Python](https://img.shields.io/badge/-Python-lightgrey?&logo=Python)
+  ![Golem Network](https://img.shields.io/badge/-Golem%20Network-lightgrey)  
+  ![Fulltext Search](https://img.shields.io/badge/-Fulltext%20Search-lightgrey)  
 </details>
