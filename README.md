@@ -1,6 +1,6 @@
 ### Hi there, I'm Roman - aka [niklr](https://github.com/niklr)
 
-I'm a Software Engineer from Switzerland interested in all things related to Big Data, Cybersecurity, Networking and Blockchain in combination with C#/Java/Golang/TypeScript as well as (but not limited to) .NET/Spring/Angular/React
+I'm a Software Engineer from Switzerland interested in all things related to Big Data, IT Security, Networking and Blockchain in combination with C#/Java/Golang/TypeScript as well as (but not limited to) .NET/Spring/Angular/React
 
 [![Linkedin: romanniklaus](https://img.shields.io/badge/-romanniklaus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romanniklaus/)](https://www.linkedin.com/in/romanniklaus/)
 [![GitHub followers](https://img.shields.io/github/followers/niklr?label=Follow&style=social)](https://github.com/niklr)
