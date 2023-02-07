@@ -1,8 +1,7 @@
-### Hi there, I'm Roman - aka [niklr](https://github.com/niklr) 👋
+### Hi there, I'm Roman - aka [niklr](https://github.com/niklr)
 
-I'm a Software Engineer from Switzerland interested in all things related to Blockchain/Web3/Crypto
+I'm a Software Engineer from Switzerland interested in all things related to Blockchain/Web3/Crypto and C#/Java/Golang/TypeScript as well as (but not limited to) .NET/Spring/Angular/React
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/0xNiklausRoman?label=Follow)](https://twitter.com/intent/follow?screen_name=0xNiklausRoman)
 [![Linkedin: romanniklaus](https://img.shields.io/badge/-romanniklaus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romanniklaus/)](https://www.linkedin.com/in/romanniklaus/)
 [![GitHub followers](https://img.shields.io/github/followers/niklr?label=Follow&style=social)](https://github.com/niklr)
 
